@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # E-Chaton
 
 E-Chaton est un projet d'étude factice de site e-commerce développé sur Ruby On Rails from scratch. 
