@@ -1,4 +1,4 @@
-![Capture d’écran 2021-01-12 à 17.36.27](Capture d’écran 2021-01-12 à 17.36.27.png)
+![Screenshot](screenshot.png)
 
 # E-Chaton
 
