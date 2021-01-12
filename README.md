@@ -11,6 +11,7 @@ L'identité visuelle est volontairement "kitch".
 - Ajout au panier
 - Checkout et paiement via Stripe
 - Envoie automatique d'email de confirmation de commande
+- Ajout d'un dashboard Admin
 
 ## Visualisation
 
@@ -22,6 +23,3 @@ Accédez à l'interface admin en utilisant les log suivant :
 email: "admin-chaton@yopmail.com"
 password: azerty
 ```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
